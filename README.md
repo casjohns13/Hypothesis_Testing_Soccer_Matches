@@ -1,4 +1,4 @@
-# Hypothesis Testing with Men's and Women's Soccer Matches
+# 12. Hypothesis Testing with Men's and Women's Soccer Matches
 Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's!
 
 Time to begin applying your statistical testing skills to historical data of men's and women's international soccer matches!
